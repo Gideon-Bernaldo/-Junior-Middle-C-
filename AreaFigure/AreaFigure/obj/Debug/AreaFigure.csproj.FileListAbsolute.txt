@@ -1,0 +1,6 @@
+C:\Users\Chad\source\repos\AreaFigure\AreaFigure\bin\Debug\AreaFigure.dll
+C:\Users\Chad\source\repos\AreaFigure\AreaFigure\bin\Debug\AreaFigure.pdb
+C:\Users\Chad\source\repos\AreaFigure\AreaFigure\obj\Debug\AreaFigure.csproj.AssemblyReference.cache
+C:\Users\Chad\source\repos\AreaFigure\AreaFigure\obj\Debug\AreaFigure.csproj.CoreCompileInputs.cache
+C:\Users\Chad\source\repos\AreaFigure\AreaFigure\obj\Debug\AreaFigure.dll
+C:\Users\Chad\source\repos\AreaFigure\AreaFigure\obj\Debug\AreaFigure.pdb
