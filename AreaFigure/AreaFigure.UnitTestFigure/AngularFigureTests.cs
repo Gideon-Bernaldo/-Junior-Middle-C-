@@ -25,7 +25,7 @@ namespace AreaFigure.UnitTestFigure
         public void IsStraightTriangle_5and5and3_true_Returned()
         {
             //Arrange
-            var triangle = new AngularFigure("Triangle", 5, 5, 3);
+            var triangle = new AngularFigure("Треугольник", 5, 5, 3);
             //Act
             var result = triangle.IsStraightTriangle();
             //Assert
@@ -64,11 +64,11 @@ namespace AreaFigure.UnitTestFigure
         public void GetAreaRectangle_5and9_45_Returned()
         {
             //Arrange
-            var triangle = new AngularFigure("Прямоугольник", 5, 9);
+            var rectangle = new AngularFigure("Прямоугольник", 5, 9);
             int expected = 45;
 
             //Act
-            var result = triangle.GetArea();
+            var result = rectangle.GetArea();
 
             //Assert
             Assert.AreEqual(expected, (int)result);
